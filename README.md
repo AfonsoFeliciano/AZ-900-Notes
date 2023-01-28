@@ -8,6 +8,7 @@
 
 - [Episode 1 - Cloud Computing and Vocabulary](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Cloud-Computing-and-Vocabulary)
 - [Episode 2 - Principle of economies of scale](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Principle-of-economies-of-scale)
+- [Episode 3 - CapEx vs OpEx and their differences](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#CapEx-vs-OpEx-and-their-differences)
 
 
 
@@ -112,9 +113,69 @@ When the company grows in size, it becomes more effective at what they do. Thank
 <p align="center">
     <img
     src="imgs/Screenshot_5.png"
-    title="Agility"
+    title="Principle of economies of scale"
     style="display: inline-block; margin: 0 auto; max-width: 400">
 </p>
 
 <a href="https://marczak.io/az-900/episode-02/practice-test/"> Episode 2: Practice test </a>
 
+## CapEx vs OpEx and their differences
+
+Main goal:
+
+- Describe the differences between Capital Expenditure (CapEx) and Operational Expenditure (OpEx)
+
+### CapEx
+
+- You have your infrastructure
+- You need a big initial investment
+- Lost of maintenance required
+1. Support Staff
+2. Power & Networking
+3. Hardware failures
+4. others
+
+> An action of spending company funds upfront
+
+
+<p align="center">
+    <img
+    src="imgs/Screenshot_6.png"
+    title="CapEx"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
+</p>
+
+
+### OpEx
+
+- Rent infrastructure
+- No need for initial investment because the pay is for what is used
+- Minimal maintenance
+1. Operations team
+
+<p align="center">
+    <img
+    src="imgs/Screenshot_7.png"
+    title="OpEx"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
+</p>
+
+> You spend money on services every month as you use them. As such you deduct the tax in the same year. 
+
+### Differences
+
+<center>
+
+| Caracteristic     | #CapEx        | #OpEx          |
+| :---:             | :---:         | :---:          |
+| Up front cost     | Significant   | None           |       
+| Ongoing cost      | Low           | Based on Usage |
+| Tax Deuction      | Over time     | Same year      |
+| Early Termination | No            | Anytime        |
+| maintenance       | Significant   | Low            |
+| Value over time   | Lowers        | No change      |
+
+</center>
+
+
+<a href="https://marczak.io/az-900/episode-03/practice-test/"> Episode 3: Practice test </a>
