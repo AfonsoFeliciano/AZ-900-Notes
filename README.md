@@ -101,5 +101,5 @@ Is a metric with measures the downtime of the services.
 > Availability is a measure of system uptime for users/services and high availability is the ability to keep services running for extended periods of time with very little downtime.
 
 
-<a href="https://marczak.io/az-900/episode-01/practice-test/"> Practice test </a>
+<a href="https://marczak.io/az-900/episode-01/practice-test/"> Episode 1: Practice test </a>
 
