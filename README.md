@@ -7,7 +7,7 @@
 # Summary
 
 - [Episode 1 - Cloud Computing and Vocabulary](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Cloud-Computing-and-Vocabulary)
-- [Episode 2 - Principle of economies of scale](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md)
+- [Episode 2 - Principle of economies of scale](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Principle-of-economies-of-scale)
 
 
 
@@ -80,7 +80,7 @@ The main definition is:
 
 > The ability to react quickly
 
-### Fault ToleranceOne failure will not interrupt the service
+### Fault Tolerance One failure will not interrupt the service
 
 > Disaster is a serious disruption of services caused by natural or human-induced causes.
 
