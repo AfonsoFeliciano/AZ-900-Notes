@@ -6,7 +6,7 @@
 
 # Summary
 
-- [Cloud Computing and Vocabulary]()
+- [Cloud Computing and Vocabulary](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Cloud-Computing-and-Vocabulary)
 
 
 
