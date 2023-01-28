@@ -164,7 +164,7 @@ Main goal:
 
 ### Differences
 
-<center>
+<p align="center">
 
 | Caracteristic     | #CapEx        | #OpEx          |
 | :---:             | :---:         | :---:          |
@@ -175,7 +175,7 @@ Main goal:
 | maintenance       | Significant   | Low            |
 | Value over time   | Lowers        | No change      |
 
-</center>
+</p>
 
 
 <a href="https://marczak.io/az-900/episode-03/practice-test/"> Episode 3: Practice test </a>
