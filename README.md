@@ -6,7 +6,8 @@
 
 # Summary
 
-- [Cloud Computing and Vocabulary](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Cloud-Computing-and-Vocabulary)
+- [Episode 1 - Cloud Computing and Vocabulary](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Cloud-Computing-and-Vocabulary)
+- [Episode 2 - Principle of economies of scale](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md)
 
 
 
@@ -39,10 +40,10 @@ Horizontal scaling, which increases the amount/quantity of the resources, can be
 - Scaling in: decrease the amount
 
 <p align="center">
-<img
-  src="imgs/Screenshot_1.png"
-  title="Scalability"
-  style="display: inline-block; margin: 0 auto; max-width: 400">
+    <img
+    src="imgs/Screenshot_1.png"
+    title="Scalability"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
 </p>
 
 In other terms
@@ -53,11 +54,11 @@ In other terms
 
  The workload used during the day by the users where can be automatic scaling. 
 
- <p align="center">
-<img
-  src="imgs/Screenshot_2.png"
-  title="Elasticity"
-  style="display: inline-block; margin: 0 auto; max-width: 400">
+<p align="center">
+    <img
+    src="imgs/Screenshot_2.png"
+    title="Elasticity"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
 </p>
 
 > Elasticity is the ability to scale dynamically
@@ -68,11 +69,11 @@ The resources can be provided in two ways: manual or APIs and scripts. The main 
 
 Cloud is faster than on-premises
 
- <p align="center">
-<img
-  src="imgs/Screenshot_3.png"
-  title="Agility"
-  style="display: inline-block; margin: 0 auto; max-width: 400">
+<p align="center">
+    <img
+    src="imgs/Screenshot_3.png"
+    title="Agility"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
 </p>
 
 The main definition is: 
@@ -91,15 +92,29 @@ Based on disaster, the term disaster recovery appears, using replication on mult
 
 Is a metric with measures the downtime of the services.
 
- <p align="center">
-<img
-  src="imgs/Screenshot_4.png"
-  title="High availability "
-  style="display: inline-block; margin: 0 auto; max-width: 400">
+<p align="center">
+    <img
+    src="imgs/Screenshot_4.png"
+    title="High availability "
+    style="display: inline-block; margin: 0 auto; max-width: 400">
 </p>
 
 > Availability is a measure of system uptime for users/services and high availability is the ability to keep services running for extended periods of time with very little downtime.
 
 
 <a href="https://marczak.io/az-900/episode-01/practice-test/"> Episode 1: Practice test </a>
+
+## Principle of economies of scale
+
+When the company grows in size, it becomes more effective at what they do. Thanks to this they can reduce their operation costs and therefore decrease their price per unit.
+
+
+<p align="center">
+    <img
+    src="imgs/Screenshot_5.png"
+    title="Agility"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
+</p>
+
+<a href="https://marczak.io/az-900/episode-02/practice-test/"> Episode 2: Practice test </a>
 
