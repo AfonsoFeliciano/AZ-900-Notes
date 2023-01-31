@@ -10,6 +10,7 @@
 - [Episode 2 - Principle of economies of scale](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Principle-of-economies-of-scale)
 - [Episode 3 - CapEx vs OpEx and their differences](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#CapEx-vs-OpEx-and-their-differences)
 - [Episode 4 - Consumption-based Model](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Consumption-based-Model)
+- [Episode 5 - IaaS vs PaaS vs SaaS cloud service models](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#IaaS-vs-PaaS-vs-SaaS-cloud-service-models)
 
 
 
@@ -109,7 +110,7 @@ Is a metric with measures the downtime of the services.
 
 ## Principle of economies of scale
 
-When the company grows in size, it becomes more effective at what they do. Thanks to this they can reduce their operation costs and therefore decrease their price per unit.
+When the company grows in size, it becomes more effective at what they do. Thanks to this they can reduce their operating costs and therefore decrease their price per unit.
 
 
 <p align="center">
@@ -182,9 +183,7 @@ Main goal:
 
 <a href="https://marczak.io/az-900/episode-03/practice-test/"> Episode 3: Practice test </a>
 
-## Consumption-based Model
-
-- There is no upfront costs
+## Consumption-based ModelThere are no upfront costs
 - No wasted resources 
 - Pay when you need the resources
 - Stop paying at any time
@@ -213,3 +212,58 @@ Each service in the cloud has multiple small consumption-based metrics which com
 </p>
 
 <a href="https://marczak.io/az-900/episode-04/practice-test/"> Episode 4: Practice test </a>
+
+## IaaS vs PaaS vs SaaS cloud service models
+
+The goals are: 
+- Describe infrastructure as a service (IaaS)
+- Describe Platform as a service (PaaS)
+- Describe Software as a service (SaaS)
+- Compare and contrast the three different service types
+
+Differentiating the layers
+
+<p align="center">
+    <img
+    src="imgs/Screenshot_10.png"
+    title="Types of layers"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
+</p>
+
+> On-Premises manage everything including infrastructure, platform and software. The infrastructure contains networking, hardware and virtualization. 
+Platform contains operating system, middleware, runtime
+Software contains data and applications
+
+### IaaS
+
+Cloud provider manages infrastructure and you manage the platform and softwares. 
+
+Examples of use cases: 
+- Migration of workloads
+- Test and development
+- Storage, backups and recovery
+
+Examples of services:
+- Virtual machine
+- Virtual network
+- Managed disk
+
+### PaaS
+
+Cloud provider manages infrastructure and platform and you manage only the software layer
+
+Example of use cases:
+- Development framework
+- Analytics and business intelligence
+
+Examples of services:
+- SQL
+- App Service
+- Logic Apps
+- Function Apps
+
+
+
+
+
+
