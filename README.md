@@ -304,7 +304,7 @@ Comments:
 
 ### Public cloud
 
-- Everything runs on cloud provider hardware
+- Everything runs on cloud-provider hardware
 - No local hardware
 - Some services share hardware with other customers
 
@@ -337,3 +337,20 @@ And the disadvantages are:
 - Limited agility
 - IT skills and expertise are mandatory
 
+## Hybrid cloud
+
+- Combines public and private
+- Offers a great flexibility
+
+The advantages are:
+- Great flexibility
+- Run legacy apps in a private cloud
+- Utilize existing infrastructure
+- Meet any security requirements
+
+The disadvantages are:
+- Can be more expensive
+- Complicated to manage
+- IT skills and expertise are mandatory
+
+<a href="https://marczak.io/az-900/episode-06/practice-test/"> Episode 6: Practice test </a>
