@@ -274,6 +274,15 @@ Example of services:
 - Outlook
 - Skype
 
+### Differences between the layers
 
+<p align="center">
+    <img
+    src="imgs/Screenshot_11.png"
+    title="Differences between the layers"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
+</p>
+
+<a href="https://marczak.io/az-900/episode-04/practice-test/"> Episode 4: Practice test </a>
 
 
