@@ -311,7 +311,7 @@ Comments:
 The advantages are: 
 - No capEx
 - High availability and agility
-- Pay as you go pricing
+- Pay-as-you-go pricing
 - No hardware maintenance
 - No deep technical skills required
 
@@ -320,5 +320,20 @@ And the disadvantages are:
 - Ownership
 - Specific scenarios with unique business req
 
+## Private cloud
 
+- Everything runs on your own data center
+- Self-service should be provided
+- You maintain everything
+
+
+The advantages are: 
+- Can support any scenario
+- Control over security
+- Can meet any security and compliance requirements
+
+And the disadvantages are: 
+- Initial CapEx
+- Limited agility
+- IT skills and expertise are mandatory
 
