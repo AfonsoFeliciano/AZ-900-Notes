@@ -9,6 +9,8 @@
 - [Episode 1 - Cloud Computing and Vocabulary](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Cloud-Computing-and-Vocabulary)
 - [Episode 2 - Principle of economies of scale](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Principle-of-economies-of-scale)
 - [Episode 3 - CapEx vs OpEx and their differences](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#CapEx-vs-OpEx-and-their-differences)
+- [Episode 4 - Consumption-based Model](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Consumption-based-Model)
+
 
 
 
@@ -179,3 +181,35 @@ Main goal:
 
 
 <a href="https://marczak.io/az-900/episode-03/practice-test/"> Episode 3: Practice test </a>
+
+## Consumption-based Model
+
+- There is no upfront costs
+- No wasted resources 
+- Pay when you need the resources
+- Stop paying at any time
+
+It's possible to pay for the use from compute, storage and network. In this case, are:
+- Multiple pricing components per service
+- Very granular usage measurement
+
+
+
+
+<p align="center">
+    <img
+    src="imgs/Screenshot_8.png"
+    title="Compution based model"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
+</p>
+
+Each service in the cloud has multiple small consumption-based metrics which combined make up for the service cost. This allows the cloud provider to charge their customers appropriately for their usage. 
+
+<p align="center">
+    <img
+    src="imgs/Screenshot_9.png"
+    title="Price example"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
+</p>
+
+<a href="https://marczak.io/az-900/episode-04/practice-test/"> Episode 4: Practice test </a>
