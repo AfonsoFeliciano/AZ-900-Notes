@@ -248,6 +248,10 @@ Examples of services:
 - Virtual network
 - Managed disk
 
+Comments: 
+
+> If you install SQL Server on a virtual machine manually or by using the box image, is still a virtual machine. That means customers still need to manage all of the platform aspects, including operating system settings, patches, middleware, SQL Server runtime settings, etc. As such this remains an infrastructure as a service. Azure has an option for Azure SQL Server on a virtual machine where all the updates and backups are automated but even Microsoft on their website considers this option as IaaS.
+
 ### PaaS
 
 Cloud provider manages infrastructure and platform and you manage only the software layer
@@ -262,6 +266,10 @@ Examples of services:
 - Logic Apps
 - Function Apps
 
+Comments: 
+
+> Customers who purchase Azure SQL Databse don't need to maintain anything realted to SQL Platform because Microsoft manages that. They just use it by deploying their tables and data an consuming it with their applications. That's why is a platform as service model. It's not software as service because they still need to main the database in order for their applications to work.
+
 ### SaaS
 
 Cloud provider manages everything (infrastructure, platform and software) and you manage nothing.
@@ -273,6 +281,10 @@ Example of services:
 - One drive
 - Outlook
 - Skype
+
+Comments:
+
+> Software as service means cloud provided managing everything including the application. So customers just buy the applications and licenses and use it, they don't have to maintain anything at all.
 
 ### Differences between the layers
 
