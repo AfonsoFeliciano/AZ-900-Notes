@@ -262,7 +262,17 @@ Examples of services:
 - Logic Apps
 - Function Apps
 
+### SaaS
 
+Cloud provider manages everything (infrastructure, platform and software) and you manage nothing.
+
+Examples of use cases:
+- Buying the shell applications
+
+Example of services:
+- One drive
+- Outlook
+- Skype
 
 
 
