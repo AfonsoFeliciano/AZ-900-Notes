@@ -405,3 +405,8 @@ Regions' key characteristics are:
 - Globally available with 50+ regions
 - Special government regions (US DoD Central, US Gov Virginia, etc)
 - Special partnered regions (China East, China North)
+
+Utils: 
+
+> Azure Speed Test 2.0 is a tool to measure the latency from your web broser to the blob storage service in each of the Microsoft Azure Data Centers https://azurespeedtest.azurewebsites.net/.
+
