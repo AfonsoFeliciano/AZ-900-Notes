@@ -12,9 +12,7 @@
 - [Episode 4 - Consumption-based Model](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Consumption-based-Model)
 - [Episode 5 - IaaS vs PaaS vs SaaS cloud service models](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#IaaS-vs-PaaS-vs-SaaS-cloud-service-models)
 - [Episode 6 - Public, Private & Hybrid cloud deployment models](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Public-and-Private-and-Hybrid-cloud-deployment-models)
-
-
-
+- [Episode 7 - Geographies, Regions & Availability Zones](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Geographies-and-Regions-and-Availability-Zones)
 
 
 
@@ -363,3 +361,47 @@ Comments:
 
 > Some legacy applications might require sophisticaded physical infrastructure/software/configuration that might not be available as a public cloud offers. This means customers will require their own infrastructure to run those which make the priva cloud the best fit. But if a customer already has a public cloud they can go into a Hybrid model.
 
+## Geographies and Regions and Availability Zones
+
+### Data center
+
+- Physical facility
+- Hosting for a group of networked servers
+- Own power, cooling and networking infrastructure
+
+<p align="center">
+    <img
+    src="imgs/Screenshot_12.png"
+    title="Data center structure"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
+</p>
+
+### Regions
+
+Contains a group of data centers
+
+<p align="center">
+    <img
+    src="imgs/Screenshot_13.png"
+    title="Group of data centers forming regions"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
+</p>
+
+They are globally distributed
+
+<p align="center">
+    <img
+    src="imgs/Screenshot_14.png"
+    title="Globally regions"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
+</p>
+
+Regions' key characteristics are:
+
+- Geographical area on the planet
+- One but usually more data centers connected with low latency network (<2 milliseconds)Location for your services
+- Some services are available only in certain regions
+- Some services are global, as such are not assigned or deployed in a specific region
+- Globally available with 50+ regions
+- Special government regions (US DoD Central, US Gov Virginia, etc)
+- Special partnered regions (China East, China North)
