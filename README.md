@@ -11,6 +11,8 @@
 - [Episode 3 - CapEx vs OpEx and their differences](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#CapEx-vs-OpEx-and-their-differences)
 - [Episode 4 - Consumption-based Model](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Consumption-based-Model)
 - [Episode 5 - IaaS vs PaaS vs SaaS cloud service models](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#IaaS-vs-PaaS-vs-SaaS-cloud-service-models)
+- [Episode 6 - Public, Private & Hybrid cloud deployment models](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Public,-Private-&-Hybrid-cloud-deployment-models)
+
 
 
 
@@ -296,5 +298,27 @@ Comments:
 </p>
 
 <a href="https://marczak.io/az-900/episode-05/practice-test/"> Episode 5: Practice test </a>
+
+
+## Public, Private & Hybrid cloud deployment models
+
+### Public cloud
+
+- Everything runs on cloud provider hardware
+- No local hardware
+- Some services share hardware with other customers
+
+The advantages are: 
+- No capEx
+- High availability and agility
+- Pay as you go pricing
+- No hardware maintenance
+- No deep technical skills required
+
+And the disadvantages are: 
+- Security and Compliance
+- Ownership
+- Specific scenarios with unique business req
+
 
 
