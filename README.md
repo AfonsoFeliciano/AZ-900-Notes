@@ -11,7 +11,7 @@
 - [Episode 3 - CapEx vs OpEx and their differences](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#CapEx-vs-OpEx-and-their-differences)
 - [Episode 4 - Consumption-based Model](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Consumption-based-Model)
 - [Episode 5 - IaaS vs PaaS vs SaaS cloud service models](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#IaaS-vs-PaaS-vs-SaaS-cloud-service-models)
-- [Episode 6 - Public, Private & Hybrid cloud deployment models](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Public-&-Private-&-Hybrid-cloud-deployment-models)
+- [Episode 6 - Public, Private & Hybrid cloud deployment models](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Public-and-Private-and-Hybrid-cloud-deployment-models)
 
 
 
@@ -300,7 +300,7 @@ Comments:
 <a href="https://marczak.io/az-900/episode-05/practice-test/"> Episode 5: Practice test </a>
 
 
-## Public & Private & Hybrid cloud deployment models
+## Public and Private and Hybrid cloud deployment models
 
 ### Public cloud
 
