@@ -354,3 +354,12 @@ The disadvantages are:
 - IT skills and expertise are mandatory
 
 <a href="https://marczak.io/az-900/episode-06/practice-test/"> Episode 6: Practice test </a>
+
+Comments: 
+
+> Hybrid cloud and private cloud allows to build applications with very strict security and compliance. 
+
+> With the bybrid cloud customers can choose to use the public cloud or private cloud depending on your scenarios. Allowing customers to implemend pretty much any scenario allowing greatest degree of flexibility
+
+> Some legacy applications might require sophisticaded physical infrastructure/software/configuration that might not be available as a public cloud offers. This means customers will require their own infrastructure to run those which make the priva cloud the best fit. But if a customer already has a public cloud they can go into a Hybrid model.
+
