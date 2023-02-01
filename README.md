@@ -506,3 +506,18 @@ Comments:
 > Availability zones are designed to help customers protect from data center failures by logically grouping physically separate facilities wich have their own independent cooling, power and networking infrastructure and allowing services to take advantage of this fact.
 
 ## Resources and Resource Groups and Resource Manager
+
+### Resources
+
+- Objects used to manage services in Azure
+- Represents service lifecycle
+
+<p align="center">
+    <img
+    src="imgs/Screenshot_18.png"
+    title="Resources"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
+</p>
+
+The resources are represented by a JSON template
+
