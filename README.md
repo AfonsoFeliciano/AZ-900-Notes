@@ -521,3 +521,20 @@ Comments:
 
 The resources are represented by a JSON template
 
+### Resource Groups
+
+- Grouping of resources
+- Holds logically related resources
+
+Can be organized by 
+- Type
+- Lifecycle (app, environment)
+- Department
+- Billing, location or a combination of those
+
+<p align="center">
+    <img
+    src="imgs/Screenshot_19.png"
+    title="Resources groups"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
+</p>
