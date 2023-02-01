@@ -465,7 +465,25 @@ Examples of region pairs
 | East Asia (Hong Kong)     | Southeast Asia (Singapore)    |
 
 
+### Geographies
+
+- Discrete market
+- Typically contains two or more regions
+- Ensure data residency, sovereignty, resiliency and compliance requirements are met
+- Fault-tolerant to protect from region wide failures
+- Broken up into areas
+1) Americas
+2) Europe
+3) Asia Pacific
+4) Middle East and Africa
+- Each region belongs only to one Geography
 
 
+<p align="center">
+    <img
+    src="imgs/Screenshot_17.png"
+    title="Geographies"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
+</p>
 
-
+<a href="https://marczak.io/az-900/episode-07/practice-test/"> Episode 7: Practice test </a>
