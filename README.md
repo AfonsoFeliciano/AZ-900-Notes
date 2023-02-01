@@ -487,3 +487,20 @@ Examples of region pairs
 </p>
 
 <a href="https://marczak.io/az-900/episode-07/practice-test/"> Episode 7: Practice test </a>
+
+Comments: 
+
+> Both region pairs and geographies are designed to be fault-tolerant and help customers replicate their solutions across regions as such allowing them to create highly available applications capable of withstanding region-wide failures
+
+> Availability zones are physically separate facilities with indepent cooling, power and networking infrasctrucure
+
+> Azure region typically has more than one data center, but it's not a requirement. So a minimum of one data center makes up for an Azure region
+
+> Zone enabled region must have a minimum of three (3) availability zones
+
+> About region pair: 1) All azure regions have a region pair; 2) Updates across region pairs are synchronized to ensure that they are not update at the same time; 3) Each region always has exaclty one pair assigned; 4) Deploying in region pairs allows customers to maintain data residency.
+
+> |onal services allow customers to choose availability zone placement for their services
+
+> Availability zones are designed to help customers protect from data center failures by logically grouping physically separate facilities wich have their own independent cooling, power and networking infrastructure and allowing services to take advantage of this fact.
+
