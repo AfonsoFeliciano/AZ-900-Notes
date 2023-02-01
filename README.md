@@ -13,6 +13,7 @@
 - [Episode 5 - IaaS vs PaaS vs SaaS cloud service models](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#IaaS-vs-PaaS-vs-SaaS-cloud-service-models)
 - [Episode 6 - Public, Private & Hybrid cloud deployment models](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Public-and-Private-and-Hybrid-cloud-deployment-models)
 - [Episode 7 - Geographies, Regions & Availability Zones](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Geographies-and-Regions-and-Availability-Zones)
+- [Episode 8 - Resources, Resource Groups & Resource Manager](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Resources-and-Resource-Groups-and-Resource Manager)
 
 
 
@@ -504,3 +505,4 @@ Comments:
 
 > Availability zones are designed to help customers protect from data center failures by logically grouping physically separate facilities wich have their own independent cooling, power and networking infrastructure and allowing services to take advantage of this fact.
 
+## Resources and Resource Groups and Resource Manager
