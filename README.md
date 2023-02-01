@@ -435,6 +435,36 @@ The services are split into two categories
 
 > Supported region has three or more zones
 
+### Region's pair
+
+Each region has a region pair allow replicating data to multiple regions
+
+
+<p align="center">
+    <img
+    src="imgs/Screenshot_16.png"
+    title="Pairs"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
+</p>
+
+
+Regions pairs are static and cannot be chosen and each pair resides within the same geography except Brazil South. Furthermore physical isolation with at least 300 miles distance when is possible.
+
+The other characteristics are: 
+- Some services have platform-provided replication
+- Planned updates across the pairs
+- Data residency maintained for disaster recovery
+
+Examples of region pairs
+
+| Region Pair A             | Region Pair B                 |
+| :---:                     | :---:                         | 
+| East US                   | West US                       |
+| UK West                   | UK South                      |
+| North Europe (Ireland)    | West Europe (Netherlands)     |
+| East Asia (Hong Kong)     | Southeast Asia (Singapore)    |
+
+
 
 
 
