@@ -410,3 +410,32 @@ Utils:
 
 > Azure Speed Test 2.0 is a tool to measure the latency from your web broser to the blob storage service in each of the Microsoft Azure Data Centers https://azurespeedtest.azurewebsites.net/.
 
+### Availability Zone
+
+- Regional feature
+- Grouping of physically separate facilities
+- Designed to protect from data center failures
+- If the zone goes down others continue working
+
+Each availability zone has a number
+
+<p align="center">
+    <img
+    src="imgs/Screenshot_15.png"
+    title="Availability zone"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
+</p>
+
+The services are split into two categories
+
+1) Zonal services (virtual machines, disks, etc)
+2) Zone redundant services (SQL, Storage, etc) replicating the data
+
+> Not all regions are supported
+
+> Supported region has three or more zones
+
+
+
+
+
