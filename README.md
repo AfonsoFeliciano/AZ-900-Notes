@@ -14,6 +14,8 @@
 - [Episode 6 - Public, Private & Hybrid cloud deployment models](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Public-and-Private-and-Hybrid-cloud-deployment-models)
 - [Episode 7 - Geographies, Regions & Availability Zones](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Geographies-and-Regions-and-Availability-Zones)
 - [Episode 8 - Resources, Resource Groups & Resource Manager](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Resources-and-Resource-Groups-and-Resource-Manager)
+- [Episode 9 - Computer Services](https://github.com/AfonsoFeliciano/AZ-900-Notes/blob/main/README.md#Computer-Services)
+
 
 
 
@@ -574,3 +576,13 @@ Comments
 
 > Separation by application lifecycle means naming resource groups by application name and environment name. This separation strategy allows customers to have separate groups per application and environment name to assign separte privileges to their employees and vendors. As such making sure they don't impact each other while working with Azure.
 
+## Compute Services
+
+Compute services is a category of on-demand services used to run cloud-based applications
+
+### Virtualization
+
+- Emulation of physical machines
+- Different virtual hardware configurations per machine/app
+- Different operating systems per machine/app
+- Total separation of environments (file systems, services, ports, middleware, configuration)
