@@ -563,3 +563,14 @@ Can be connected by portal, rest, power shell, CLI and SDKs
 - Management layer for all resources and resource groups
 - Unified language
 - Controls access and resources
+
+<a href="https://marczak.io/az-900/episode-08/practice-test/"> Episode 8: Practice test </a>
+
+Comments
+
+> Azure resources represent purchased azure services. While they use JSON format to do it, it's simply for purposes of storing their configuration in a commonly accepted and readable format.
+
+> Resources groups allow services by their lifecycle, services for billing and tracking purposes, services by their resource type, services by assigned departments and services by geographical location
+
+> Separation by application lifecycle means naming resource groups by application name and environment name. This separation strategy allows customers to have separate groups per application and environment name to assign separte privileges to their employees and vendors. As such making sure they don't impact each other while working with Azure.
+
