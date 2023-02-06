@@ -543,15 +543,15 @@ Can be organized by
 ### Aditional information 
 
 - Each resource must be in one and only one resource group 
-- Resource groups have their own location assigned
-- Resouces in the resource groups can reside in different locations
+- Resource groups have their location assigned
+- Resources in the resource groups can reside in different locations
 - Resouces can be moved between the resource groups
 - Resouce groups can't be nested
 - Organize based on your organization's needs but consider: billing, security and access management, application lifecycle
 
 ## Resource Manager 
 
-Can be connected by portal, rest, power shell, CLI and SDKs
+Can be connected by the portal, rest, power shell, CLI and SDKs
 
 <p align="center">
     <img
