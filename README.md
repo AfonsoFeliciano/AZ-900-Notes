@@ -586,3 +586,11 @@ Compute services is a category of on-demand services used to run cloud-based app
 - Different virtual hardware configurations per machine/app
 - Different operating systems per machine/app
 - Total separation of environments (file systems, services, ports, middleware, configuration)
+
+### Azure Virtual Machines
+
+- Infrastructure as a Service (IaaS)
+- Total control over the operating system and the software
+- Supports marketplace and custom images
+- Best suited for custom software requiring custom system configuration or lift and shift scenarios
+- Can run any application/scenario
