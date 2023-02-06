@@ -538,3 +538,28 @@ Can be organized by
     title="Resources groups"
     style="display: inline-block; margin: 0 auto; max-width: 400">
 </p>
+
+
+### Aditional information 
+
+- Each resource must be in one and only one resource group 
+- Resource groups have their own location assigned
+- Resouces in the resource groups can reside in different locations
+- Resouces can be moved between the resource groups
+- Resouce groups can't be nested
+- Organize based on your organization's needs but consider: billing, security and access management, application lifecycle
+
+## Resource Manager 
+
+Can be connected by portal, rest, power shell, CLI and SDKs
+
+<p align="center">
+    <img
+    src="imgs/Screenshot_20.png"
+    title="Resources manager"
+    style="display: inline-block; margin: 0 auto; max-width: 400">
+</p>
+
+- Management layer for all resources and resource groups
+- Unified language
+- Controls access and resources
